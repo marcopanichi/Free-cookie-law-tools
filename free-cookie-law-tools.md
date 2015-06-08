@@ -70,6 +70,7 @@ Please describe the pros and cons of the tools.
  
 **Cons**
 * Requires jQuery
+* Doesn't work if a cache system is active
 
 ### Divascookies
 [divascookies](http://www.codingdivas.net/divascookies/)
